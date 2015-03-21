@@ -1,0 +1,5 @@
+SpiderMonkey is the code-name for the Mozilla's C implementation of JavaScript.
+Ruby/SpiderMonkey is SpiderMonkey Ruby binding.
+
+
+
